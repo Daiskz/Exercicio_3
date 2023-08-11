@@ -1,10 +1,10 @@
 ## Projeto Modelo para Atividade Java x GitHub
 
-Sejam bem-vindos ao projeto.
+Bem vindo ao projeto!
 
 ## Enunciado
 
-Faça um Programa que peça dois números e imprima a soma
+Faça um Programa que peça dois números e imprima a soma.
 
 ## Dependency Management
 
